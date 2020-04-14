@@ -1,4 +1,3 @@
 [build]
-  base = "www"
-  command = "yarn build"
   publish = "public"
+  command = "npm run build"
