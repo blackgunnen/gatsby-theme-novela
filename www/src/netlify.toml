@@ -1,3 +1,4 @@
 [build]
-publish = “www/src/”
-
+  
+  command = "npm run build"
+  publish = "public/"
